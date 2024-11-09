@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/LevelPrototyping/Meshes/Extrude2_Blueprint.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/QL/31H7DJTVWEX04CCMX5U1SN.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/YY/ZEL6NJUQJU43LAD9X3NXTT.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/WS/X084A70TPBKFLJDCV2U5PN.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SZ/D1AHM62WL9TXSNPYQDXQMZ.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Y4/KY9ZXT77SAVGWBRTNCFCSC.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/91/64ROQWZ22CQVFJMU4XABML.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UI/GLL86EOU6HOIHLCTE1T6BG.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/FirstPerson/Maps/_GENERATED/USUARIO/Box_DC086BF4.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/FirstPerson/Maps/_GENERATED/USUARIO/Extrude_1E3AB69B.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/FirstPerson/Maps/_GENERATED/USUARIO/Extrude_59F6BEFC.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/FirstPerson/Maps/_GENERATED/USUARIO/Extrude_8045E34B.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/FirstPerson/Maps/_GENERATED/USUARIO/Extrude_B6684956.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/FirstPerson/Maps/_GENERATED/USUARIO/Extrude_C0710FC5.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/FirstPerson/Maps/_GENERATED/USUARIO/Path_B6407824.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/3097023.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/InteractInterface.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/NewWidgetBlueprint.uasset",
+				"C:/Users/USUARIO/Documents/GitHub/Vanara-s-chamber/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset"
+			]
+		}
+	]
+}
